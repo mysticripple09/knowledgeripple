@@ -82,3 +82,18 @@ li {
 .thank-you-message a:hover {
     color: #4da3e0;
 }
+
+/* Style for contributors list */
+.contributors-list {
+    margin-top: 20px;
+    list-style-type: none;
+    padding: 0;
+    font-size: 1.1rem;
+    color: #a0a0a0;
+    text-align: center;
+}
+
+.contributors-list li {
+    margin: 10px 0;
+    font-weight: bold;
+}
